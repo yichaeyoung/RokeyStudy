@@ -10,7 +10,7 @@
 | 이정현 | 노정현 | 이채영 | * |
 |:------:|:------:|:------:|:------:|
 | <img src="https://github.com/user-attachments/assets/86b2f0a0-4f78-4295-b312-8b93bfe75287" alt="이정현" width="150"> | <img src="https://github.com/user-attachments/assets/86b2f0a0-4f78-4295-b312-8b93bfe75287" alt="노정현" width="150"> | <img src="https://github.com/user-attachments/assets/86b2f0a0-4f78-4295-b312-8b93bfe75287" alt="이채영" width="150"> | <img src="https://github.com/user-attachments/assets/86b2f0a0-4f78-4295-b312-8b93bfe75287" alt="*" width="150"> |
-| 조장 | * | * | * |
+| * | * | computer engineering | * |
 | [GitHub](https://github.com/abbeyroad1027-glitch) | [GitHub](*) | [GitHub](https://github.com/yichaeyoung) | [GitHub](*) |
 
 
