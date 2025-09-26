@@ -9,7 +9,7 @@
   
 | 이정현 | 노정현 | 이채영 | * |
 |:------:|:------:|:------:|:------:|
-| <img src="https://github.com/user-attachments/assets/86b2f0a0-4f78-4295-b312-8b93bfe75287" alt="이정현" width="150"> | <img src="https://github.com/user-attachments/assets/d222b45a-2d3a-41e3-b1f5-cc8cea8e61d6" alt="노정현" width="150"> | <img src="https://github.com/user-attachments/assets/7cbaa641-332f-495d-b3fc-a27679eeb173" alt="이채영" width="150"> | <img src="https://github.com/user-attachments/assets/409d635f-9ffb-4aee-9330-bf4ab14b43af" alt="*" width="150"> |
+| <img src="https://github.com/user-attachments/assets/86b2f0a0-4f78-4295-b312-8b93bfe75287" alt="이정현" width="150"> | <img src="https://github.com/user-attachments/assets/86b2f0a0-4f78-4295-b312-8b93bfe75287" alt="노정현" width="150"> | <img src="https://github.com/user-attachments/assets/86b2f0a0-4f78-4295-b312-8b93bfe75287" alt="이채영" width="150"> | <img src="https://github.com/user-attachments/assets/86b2f0a0-4f78-4295-b312-8b93bfe75287" alt="*" width="150"> |
 | 조장 | * | * | * |
 | [GitHub](https://github.com/abbeyroad1027-glitch) | [GitHub](*) | [GitHub](https://github.com/yichaeyoung) | [GitHub](*) |
 
